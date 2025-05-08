@@ -72,4 +72,4 @@
 ---
 
 ✨ *Thanks for visiting my profile!*  
-⭐️ *Consider giving a star to [GAIN CARDS](https://github.com/jhtanjim/gain-cards) if you like it!*
+⭐️ *Consider giving a star to [GAIN CARDS](https://gain-cards.vercel.app/) if you like it!*
