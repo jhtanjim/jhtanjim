@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **[GAIN CARDS](https://gain-cards.vercel.app/)**
 - 🌱 Learning Next.js, Tailwind CSS & TypeScript
 - 💬 Ask me about React, Node.js, or MongoDB
-- 📫 Reach me at **jhtanjim@gmail.com**
+- 📫 Reach me at **jh.tanjim.4@gmail.com**
 - ⚡ Fun fact: I’m also into design and creating smooth user experiences
 
 ---
