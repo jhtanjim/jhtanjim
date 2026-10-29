@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Full Stack Web Developer | Building Cool Web Apps</h3>
 
 <p align="center">
-  <a href="https://gain-cards.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Live Project-GAIN CARDS-blue?style=for-the-badge" /></a>
+  <a href="https://gaincards.com/" target="_blank"><img src="https://img.shields.io/badge/Live Project-GAIN CARDS-blue?style=for-the-badge" /></a>
 </p>
 
 ---
