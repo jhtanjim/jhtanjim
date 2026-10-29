@@ -9,7 +9,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **[GAIN CARDS](https://gain-cards.vercel.app/)**
+- 🔭 I’m currently working on **[GAIN CARDS](https://gaincards.com/)**
 - 🌱 Learning Next.js, Tailwind CSS & TypeScript
 - 💬 Ask me about React, Node.js, or MongoDB
 - 📫 Reach me at **jh.tanjim.4@gmail.com**
